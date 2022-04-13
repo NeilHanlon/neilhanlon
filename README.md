@@ -22,3 +22,7 @@ I also am writing a book on Linux Administration with a colleague and will be sh
 * Food
 
 In that order
+
+## Sponsor me, if you want
+
+[:heart: Sponsor](https://github.com/sponsors/NeilHanlon)
