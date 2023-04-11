@@ -1,3 +1,5 @@
+## Sponsor me, if you want
+
 [:heart: Sponsor on Github](https://github.com/sponsors/NeilHanlon)    
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F0FZ9CK)
 
@@ -26,8 +28,3 @@ I also am writing a book on Linux Administration with a colleague and will be sh
 * Food
 
 In that order
-
-## Sponsor me, if you want
-
-[:heart: Sponsor on Github ](https://github.com/sponsors/NeilHanlon)    
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F0FZ9CK)
