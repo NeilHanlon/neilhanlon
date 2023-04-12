@@ -1,7 +1,7 @@
-## Support my work on Rocky Linux, Fedora, and OpenStack
+## Support my work on Rocky Linux, Fedora, OpenStack, and more
 
-[:heart: Sponsor on Github](https://github.com/sponsors/NeilHanlon)    
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F0FZ9CK)
+* [:heart: Sponsor on Github](https://github.com/sponsors/NeilHanlon)
+* [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F0FZ9CK)
 
 # Hello
 
@@ -19,6 +19,14 @@ I also am writing a book on Linux Administration with a colleague and will be sh
 
 * https://rockylinux.org
 * https://linuxadminbooks.com
+
+### Fedora / EPEL
+
+I am a Fedora packager and help maintain several packages in both Fedora and in the EPEL repositories including python-sdnotify, aria2, gengetopt, and libserialport.
+
+### OpenStack / OpenStack-Ansible
+
+I contribute to OpenStack-Ansible and help maintain the Rocky Linux images and presence there.
 
 ## What do your contributions fund?
 
