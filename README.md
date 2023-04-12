@@ -1,8 +1,7 @@
-## Sponsor me, if you want
+## Support my work on Rocky Linux, Fedora, and OpenStack
 
 [:heart: Sponsor on Github](https://github.com/sponsors/NeilHanlon)    
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F0FZ9CK)
-
 
 # Hello
 
