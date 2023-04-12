@@ -22,7 +22,9 @@ I also am writing a book on Linux Administration with a colleague and will be sh
 
 ### Fedora / EPEL
 
-I am a Fedora packager and help maintain several packages in both Fedora and in the EPEL repositories including python-sdnotify, aria2, gengetopt, and libserialport.
+I am a Fedora packager and help maintain several packages in both Fedora and in the EPEL repositories including python-sdnotify, aria2, gengetopt, libserialport, libibcommon, and more.
+
+I maintain several COPR repositories for various uses - https://copr.fedorainfracloud.org/coprs/neil/
 
 ### OpenStack / OpenStack-Ansible
 
